@@ -1,8 +1,21 @@
 {
   "name": "react-mdl-css",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Use Custom style from https://getmdl.io/customize in your react-mdl app",
-  "main": "index.css",
-  "author": "Ademola Adegbuyi",
+  "main": "material.css",
+  "author": "Ademola Adegbuyi <marhyorh@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooade/react-mdl-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ooade/react-mdl-css/issues"
+  },
+  "homepage": "https://github.com/ooade/react-mdl-css",
+  "keywords": [
+    "react-mdl",
+    "material-design",
+    "mdl"
+  ],
   "license": "MIT"
 }
