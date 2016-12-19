@@ -1,0 +1,8 @@
+{
+  "name": "react-mdl-css",
+  "version": "0.1.0",
+  "description": "Use Custom style from https://getmdl.io/customize in your react-mdl app",
+  "main": "index.css",
+  "author": "Ademola Adegbuyi",
+  "license": "MIT"
+}
